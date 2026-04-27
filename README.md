@@ -1,5 +1,5 @@
 🌍 Global Development Intelligence Engine
-
+live link: https://global-dev-intelligence-engine.streamlit.app/
 An AI-powered analytics platform that transforms raw World Bank datasets into interactive insights, simulations, and forecasts for global development trends.
 
 🚀 What This Project Does
